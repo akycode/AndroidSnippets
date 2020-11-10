@@ -1,4 +1,4 @@
-package io.github.akycode.myapp;
+package io.github.happycoding-123.myapp;
 
 import android.os.Bundle;
 
