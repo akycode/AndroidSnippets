@@ -1,4 +1,4 @@
-package io.github.happycoding1234.myapp;
+package io.github.codephoria.myapp;
 
 import androidx.fragment.app.Fragment;
 
